@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(253, 212, 219);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1%;
+}
+
+button {
+    border-radius: 10px;
+    background-color: beige;
+    margin-block: 10px;
+    padding: 0.5%;
+}
+
+input {
+    margin-block: 10px;
+    padding: 0.5%;
+    border-radius: 10px;
+}
